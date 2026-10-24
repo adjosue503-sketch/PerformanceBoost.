@@ -1,0 +1,17 @@
+{
+  "geode": "5.11.2",
+  "gd": { "win": "2.2081" },
+  "version": "v1.0.0",
+  "id": "tunombre.performance-boost",
+  "name": "Performance Boost",
+  "developer": "tunombre",
+  "description": "Reduce la carga en niveles con mucha decoración quitando partículas.",
+  "settings": {
+    "no-particles": {
+      "type": "bool",
+      "name": "Quitar partículas",
+      "description": "Desactiva casi todas las partículas, que pesan mucho en niveles decorados.",
+      "default": true
+    }
+  }
+}
